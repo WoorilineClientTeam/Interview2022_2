@@ -15,9 +15,14 @@
 <details>
   <summary>Additional Tasks</summary>
   <p>
-    1. Add sorting feature.
+    1. Add scaling feature.
+    
+    ![cardscale](CardScale.gif)
+    
+    2. Add sorting feature.
     - Add card info to cards(number and type)
     - Add sort button UI.
+    ![cardsort](Cardsort.gif)
     
     
   </p>
