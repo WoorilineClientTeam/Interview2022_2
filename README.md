@@ -1,6 +1,6 @@
 # Interview2022_2
 
-Basic Tasks
+**Basic Tasks**
 
 1. Add card selecting and deselecting feature.
 - On select, move the card up for certain time.
@@ -15,7 +15,7 @@ Basic Tasks
 ![carddrag](CardDrag.gif)
 
 
-Additional Tasks
+**Additional Tasks**
 
 1. Add card scaling feature.
 - Whenever a card is selected, the selected card and adjacent cards should be scaled up and moved up.
